@@ -1,0 +1,16 @@
+MAPEAMENTO = {
+    ".pdf": "Documentos",
+    ".docx": "Documentos",
+    ".txt": "Documentos",
+    ".jpg": "Imagens",
+    ".png": "Imagens",
+    ".gif": "Imagens",
+    ".jpeg": "Imagens",
+    ".svg": "Imagens",
+    ".mp4": "Videos",
+    ".mkv": "Videos",
+    ".mp3": "Áudio",
+    ".wav": "Áudio",
+    ".zip": "Compactados",
+    ".rar": "Compactados",
+}
